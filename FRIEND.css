@@ -1,0 +1,39 @@
+.f
+{
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIhSlrDwJ7T7fntKf1bYb7vNrT6NGdNO7FHw&usqp=CAU);
+    background-size: cover;
+}
+h1{
+    color:white;
+}
+p{
+    color:white;
+}
+#t
+{
+    height:100px;
+    width:350px;
+    margin-top:10px;
+    background-color: lightblue
+}
+#t1
+{
+    height:100px;
+    width:350px;
+    background-color: lightblue;
+}
+#t5
+{
+    height:100px;
+    width:350px;
+    background-color: lightblue;
+    
+}
+.bg{
+    width:900px;
+    height:800px;
+    background-color:rgba(46,97,132,0.5);
+    margin-left: 200px;
+    margin-right:10px;
+}
